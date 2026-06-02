@@ -1,4 +1,5 @@
-# CHAT-APPLICATION
+# Collaboration app
+
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
